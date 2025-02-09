@@ -2,6 +2,7 @@
 This repository contains code to analyze various factors affecting car prices and build a predictive model to estimate car values. 
 
 Business Problem & Background
+
 Geely Auto wants to enter the US market.
 They need insights into pricing factors to compete effectively.
 Goal: Identify significant variables that determine car price.
